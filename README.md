@@ -29,6 +29,3 @@ A simple script that allows players to use items to change their **name** and **
         export = "plates.platechange"
     },
 },
-
-
-  
