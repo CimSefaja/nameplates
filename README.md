@@ -4,6 +4,12 @@ A simple script that allows players to use items to change their **name** and **
 
 ---
 
+## Support
+
+Need help or want to chat with other users? Join our Discord: [Click here to join](https://discord.gg/H7DUpKpDvw)  
+
+---
+
 ## Installation
 
 1. Drag and drop the folder into your `resources` directory.  
